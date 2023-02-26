@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-21T19:48:19 EST" name="Default suite" finished-at="2023-02-21T19:48:40 EST" duration-ms="20452">
+    <groups>
+    </groups>
+    <test started-at="2023-02-21T19:48:19 EST" name="Default test" finished-at="2023-02-21T19:48:40 EST" duration-ms="20452">
+      <class name="automation_code_feb_21st_2023.Windows_Tabs">
+        <test-method signature="openTabs()[pri:0, instance:automation_code_feb_21st_2023.Windows_Tabs@729d991e]" started-at="2023-02-21T19:48:19 EST" name="openTabs" finished-at="2023-02-21T19:48:32 EST" duration-ms="12595" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openTabs -->
+        <test-method signature="openWindows()[pri:2, instance:automation_code_feb_21st_2023.Windows_Tabs@729d991e]" started-at="2023-02-21T19:48:32 EST" name="openWindows" finished-at="2023-02-21T19:48:40 EST" duration-ms="7830" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openWindows -->
+      </class> <!-- automation_code_feb_21st_2023.Windows_Tabs -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
